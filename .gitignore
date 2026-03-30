@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets & Config
+.env
+empresa_config.json
+browser_profile/
+
+# Media and Temp
+test_image.jpg
+*.mp4
+*.png
+
+# IDEs
+.vscode/
+.idea/

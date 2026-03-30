@@ -1,0 +1,16 @@
+openai
+spotipy
+requests
+python-dotenv
+schedule
+duckduckgo-search
+langgraph
+langsmith
+langchain-openai
+langchain-community
+chromadb
+onnxruntime
+tokenizers
+fastapi
+uvicorn
+instagrapi
